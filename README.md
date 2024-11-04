@@ -14,3 +14,7 @@ In addition, I'll practice things like:
 
 - Manage files from command line interface.
 - Create and update repositories with git and GitHub.
+
+## Acknowledgements
+
+I got all recipes images and texts from [Allrecipe](https://www.allrecipes.com/) site.
